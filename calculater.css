@@ -1,0 +1,48 @@
+.maindiv{
+    border: solid 8px black;
+    background-color: rgb(255, 213, 252);
+    width: 900px;
+    height: 1100px;
+    margin: 10% 20% 0% 20%;
+}
+.text{
+    width:800px;
+    height:90px;
+    border: 2px solid black;
+    background-color: white;
+    margin: 100px 40px;
+    font-size: 7vh;
+    display: flex;
+    justify-content: end;
+}
+.first3{
+    display:flex;
+    justify-content:center;
+   
+}
+.second3{
+    display:flex;
+    justify-content:center;
+
+}
+.last3{
+    display:flex;
+    justify-content:center;
+   
+}
+.last{
+    display:flex;
+    justify-content:center;
+    
+}
+.cButton{
+    width:500px;
+    height: 100px;
+    margin: 10px 45px 10px 200px;
+}
+button{
+    width:100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 1.5vh;
+}
